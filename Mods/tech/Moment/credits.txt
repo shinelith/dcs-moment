@@ -1,0 +1,8 @@
+
+Moment是一个性化主界面插件，每次DCS启动时会随机抽取用户截图作为主界面壁纸
+
+项目主页
+https://github.com/shinelith/dcs-moment
+
+by LITH
+QQ393470738

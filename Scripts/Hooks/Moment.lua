@@ -1,4 +1,4 @@
--- Moment - DCS menu wallpaper customize tools 1.0.0
+-- Moment - DCS menu wallpaper customize tools 1.0.1
 -- Author : LITH
 
 local function getFileName(str)

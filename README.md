@@ -1,13 +1,35 @@
-# DCS-Moment
+# Moment
 
-这是一个自定义DCS主界面壁纸的工具。在DCS启动时，它会从用户截图中抽取并作为DCS壁纸。
+![icon_active](assets/icon.png)
 
-### 安装方法
+[Moment](https://github.com/shinelith/dcs-moment)是一个[DCS World]([https://www.digitalcombatsimulator.com](https://www.digitalcombatsimulator.com/))(DCS)的主界面个性化插件。在DCS启动前Moment会自动运行，随机选取一张DCS截图作为DCS的主界面壁纸。
 
-* 下载压缩包
-* 解压缩全部文件，将`Mods`和`Scripts`文件夹复制到 `C:\用户\用户名\保存的游戏\DCS\`
+##安装
 
-### 使用说明
+1. 点击[这里](#)下载release版本
 
-* 启动DCS
-* 在底部的MOD图标中找到Moment，并将其设为壁纸
+1. 解压缩下载的文件
+
+1. 将其中`Mods`和`Scripts`文件夹复制到 `C:\用户\%用户名%\保存的游戏\DCS.openbeta\`中
+
+   (正式版为DCS，没有.openbeta字样)
+
+   ![1563176080339](assets/1563176080339.png)
+
+##如何使用
+
+1. 启动DCS World
+
+1. 在底部的**图标区**中找到Moment，点击**设置壁纸**
+
+   ![1563176508781](assets/1563176508781.png)
+
+1.  在DCS World飞行中按<kbd>PrintScreen</kbd>或<kbd>PrtSc</kbd>进行截图
+
+1. 下一次启动DCS World会开始随机显示截图作为壁纸
+
+   *！！请确保DCS World截图目录中存在图片，否则Moment会显示上一次的壁纸*
+
+## 如何手工添加图片
+
+复制jpg或png格式的图片到`C:\用户\%用户名%\保存的游戏\DCS.openbeta\ScreenShots`\中

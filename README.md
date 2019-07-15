@@ -2,7 +2,7 @@
 
 ![icon_active](https://github.com/shinelith/dcs-moment/raw/master/assets/icon.png)
 
-[Moment](https://github.com/shinelith/dcs-moment)是一个[DCS World]([https://www.digitalcombatsimulator.com](https://www.digitalcombatsimulator.com/))(DCS)的主界面个性化插件。在DCS启动前Moment会自动运行，随机选取一张DCS截图作为DCS的主界面壁纸。
+[Moment](https://github.com/shinelith/dcs-moment)是一个[DCS World](https://www.digitalcombatsimulator.com)(DCS)的主界面个性化插件。在DCS启动前Moment会自动运行，随机选取一张DCS截图作为DCS的主界面壁纸。
 
 ## 安装
 

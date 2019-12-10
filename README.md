@@ -6,13 +6,13 @@
 
 ## 安装
 
-1. 点击[这里](https://github.com/shinelith/dcs-moment/archive/v1.0.1.zip)下载release版本
+1. 点击[这里](https://github.com/shinelith/dcs-moment/archive/v1.0.2.zip)下载最新的v1.0.2_release版本
 
-1. 解压缩下载的文件
+1. 解压缩
 
 1. 将其中`Mods`和`Scripts`文件夹复制到 `C:\用户\%用户名%\保存的游戏\DCS.openbeta\`中
 
-   (正式版为DCS，没有.openbeta字样)
+   (正式版为`DCS`，没有`.openbeta`字样)，放心覆盖，这不会影响你装的其他Mod。
 
    ![1563176080339](https://github.com/shinelith/dcs-moment/raw/master/assets/1563176080339.png)
 
@@ -26,10 +26,9 @@
 
 1.  在DCS World飞行中按<kbd>PrintScreen</kbd>或<kbd>PrtSc</kbd>进行截图
 
-1. 下一次启动DCS World会开始随机显示截图作为壁纸
+1. 下一次启动DCS World时会看到效果
 
-   *！！请确保DCS World截图目录中存在图片，否则Moment会显示上一次的壁纸*
 
 ## 如何手工添加图片
 
-复制jpg或png格式的图片到`C:\用户\%用户名%\保存的游戏\DCS.openbeta\ScreenShots`\中
+DCS截图文件保存在`C:\用户\%你的用户名%\保存的游戏\DCS.openbeta\ScreenShots\`中，除了用DCS内的截图，直接将jpg或png复制到这里面也有效。

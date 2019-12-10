@@ -1,5 +1,5 @@
--- Moment - DCS menu wallpaper customize tools 1.0.1
--- Author : LITH
+-- Moment - DCS menu wallpaper customize tools 1.0.2
+-- Author : lith
 
 local function getFileName(str)
   local idx = str:match(".+()%.%w+$")

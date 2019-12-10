@@ -1,6 +1,6 @@
 # Moment
 
-![icon_active](https://github.com/shinelith/dcs-moment/blob/master/assets/icon.png?raw=true)
+![icon_active](https://github.com/shinelith/dcs-moment/raw/master/assets/icon.png)
 
 [Moment](https://github.com/shinelith/dcs-moment)是一个[DCS World](https://www.digitalcombatsimulator.com)(DCS)的主界面个性化插件。在DCS启动前Moment会自动运行，随机选取一张DCS截图作为DCS的主界面壁纸。
 
@@ -14,7 +14,7 @@
 
    (正式版为`DCS`，没有`.openbeta`字样)，放心覆盖，这不会影响你装的其他Mod。
 
-   ![1563176080339](https://github.com/shinelith/dcs-moment/blob/master/assets/1563176080339.png?raw=true)
+   ![1563176080339](https://github.com/shinelith/dcs-moment/raw/master/assets/1563176080339.png)
 
 ## 如何使用
 
@@ -22,7 +22,7 @@
 
 1. 在底部的**图标区**中找到Moment，点击**设置壁纸**
 
-   ![1563176508781](https://github.com/shinelith/dcs-moment/blob/master/assets/1563176508781.png?raw=true)
+   ![1563176508781](https://github.com/shinelith/dcs-moment/raw/master/assets/1563176508781.png)
 
 1.  在DCS World飞行中按<kbd>PrintScreen</kbd>或<kbd>PrtSc</kbd>进行截图
 

@@ -6,7 +6,7 @@
 
 ## 安装
 
-1. 点击[这里](https://github.com/shinelith/dcs-moment/archive/v1.0.2.zip)下载最新的v1.0.2_release版本
+1. 点击[这里](https://github.com/shinelith/dcs-moment/releases)下载最新的v1.0.2_release版本
 
 1. 解压缩
 
